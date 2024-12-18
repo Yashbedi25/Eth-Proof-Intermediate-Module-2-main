@@ -1,6 +1,6 @@
 # SavingsAccount DApp
 
-This project is a decentralized application (DApp) that interacts with the SavingsAccount smart contract. The DApp will display the token which will sav in saving account .
+This project is a decentralized application (DApp) that interacts with the SavingsAccount smart contract. The DApp will display the token which will save in saving account .
 
 ## Description
 
